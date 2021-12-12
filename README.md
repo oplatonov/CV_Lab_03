@@ -2,7 +2,7 @@
 ![pic](https://github.com/techbuterbrod/CV_Lab_03/blob/master/pic.jpg)
 
 # Gray by OpenCv:
-![grayopencv](https://github.com/techbuterbrod/CV_Lab_02/blob/master/grayopencv.png)
+![grayopencv](https://github.com/techbuterbrod/CV_Lab_03/blob/master/graytobinary.png)
 
 # Dilate:
 ![dilate](https://github.com/techbuterbrod/CV_Lab_03/blob/master/dilate.png)
