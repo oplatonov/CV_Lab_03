@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31112.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OpenCVproject3", "OpenCVproject3\OpenCVproject3.csproj", "{C3739CE4-E7CD-42B6-AD14-75F7D8B87D4F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C3739CE4-E7CD-42B6-AD14-75F7D8B87D4F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C3739CE4-E7CD-42B6-AD14-75F7D8B87D4F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C3739CE4-E7CD-42B6-AD14-75F7D8B87D4F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C3739CE4-E7CD-42B6-AD14-75F7D8B87D4F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {18393D94-2998-4E4D-A4F3-8DB60B95C832}
+	EndGlobalSection
+EndGlobal
