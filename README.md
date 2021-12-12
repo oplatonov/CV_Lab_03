@@ -4,11 +4,17 @@
 # Gray by OpenCv:
 ![grayopencv](https://github.com/techbuterbrod/CV_Lab_02/blob/master/grayopencv.png)
 
-# Otsu by OpenCv:
-![otsuopencv](https://github.com/techbuterbrod/CV_Lab_02/blob/master/binaryopencv.png)
+# Dilate:
+![dilate](https://github.com/techbuterbrod/CV_Lab_03/blob/master/dilate.png)
 
-# Otsu custom:
-![otsucustom](https://github.com/techbuterbrod/CV_Lab_02/blob/master/binarycustom.png)
+# Erosion:
+![erosion](https://github.com/techbuterbrod/CV_Lab_03/blob/master/erode.png)
 
-# Bradley custom:
-![bradleycustom](https://github.com/techbuterbrod/CV_Lab_02/blob/master/bradleycustom.png)
+# Close:
+![close](https://github.com/techbuterbrod/CV_Lab_03/blob/master/closing.png)
+
+# Open:
+![open](https://github.com/techbuterbrod/CV_Lab_03/blob/master/opening.png)
+
+# Skeleton:
+![skeleton](https://github.com/techbuterbrod/CV_Lab_03/blob/master/skeleton.png)
